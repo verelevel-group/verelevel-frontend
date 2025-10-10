@@ -19,6 +19,12 @@ Active development happens on GitLab — this GitHub repo is for **viewing code 
 - **Source of truth**: [GitLab → verelevel-frontend](https://gitlab.com/verelevel/verelevel-frontend)  
 - **Showcase mirror**: GitHub (this repo)
 
+---
+
+## 🔒 License
+This project is proprietary software owned by **GangaNayan TL (Verelevel)**.  
+All rights reserved. Unauthorized use, modification, or distribution is strictly prohibited.
+
 © 2025 Verelevel. All Rights Reserved.
 
 
